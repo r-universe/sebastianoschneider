@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "minMSE"]
+	path = minMSE
+	url = https://github.com/cran/minMSE
+	shallow = true
+	registered = true
+[submodule "utilityFunctionTools"]
+	path = utilityFunctionTools
+	url = https://github.com/cran/utilityFunctionTools
+	shallow = true
+	registered = true
